@@ -6,4 +6,4 @@ specific classes of CIFAR-100
 
 ![history](./his.png)
 
-![model](./model_plot.png)
+![cm](./cm.png)
