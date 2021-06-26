@@ -1,4 +1,9 @@
 # cifar-100
 specific classes of CIFAR-100
 
-![plot](./classes.png)
+![classes](./classes.png)
+
+
+![history](./his.png)
+
+![model](./model_plot.png)
